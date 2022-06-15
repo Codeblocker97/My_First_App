@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">Password Generator</string>
+    <string name="pass_gen_button_text">Tap to Generate Password</string>
+    <string name="pass_gen_textView_hint">Password</string>
 </resources>

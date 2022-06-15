@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pass_gen_0dp">0dp</dimen>
+    <dimen name="pass_gen_top_margin">4dp</dimen>
+    <dimen name="pass_gen_margin">28dp</dimen>
+    <dimen name="pass_gen_button_size">70dp</dimen>
+    <dimen name="pass_gen_button_text_size">18sp</dimen>
+    <dimen name="pass_gen_textView_size">45dp</dimen>
+</resources>
